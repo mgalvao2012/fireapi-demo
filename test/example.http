@@ -1,0 +1,10 @@
+### Checkout
+POST http://localhost:8080/checkout
+
+
+### Usage API
+GET http://localhost:8080/api?apiKey=fc7c919a4c6cd8bbcfec1a3ae07629a9
+
+### Customer Usage
+GET http://localhost:8080/usage/cus_LCk1n4sSYbu8Gz
+
